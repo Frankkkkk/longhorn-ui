@@ -1,0 +1,3 @@
+include:
+  - project: 'production-purple/ci'
+    file: '/templates/docker-build.yml'
